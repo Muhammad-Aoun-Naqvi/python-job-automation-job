@@ -17,4 +17,4 @@ A full-stack automation tool designed to scrape, filter, and deliver highly spec
 * **Integration:** smtplib, dotenv
 
 ## 📸 Dashboard Preview
-[Add a screenshot of your Streamlit app running here]
+<img width="1910" height="932" alt="image" src="https://github.com/user-attachments/assets/f76e27a2-3be2-44dc-b456-0300419af713" />
